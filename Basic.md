@@ -29,23 +29,23 @@ Black box models
 Data structured
 Effort in method and designe of the project
 
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
+##Path of data
+1.Planning
+1.Data preperation
+1.Modeling
+1.Follow up
+###Planing
+Goals
+Organise resources
+###Data Preperation
+Celan data
+Explore data 
+Refine data (choose the data and the relation)
+###Modeling
+Creat model
+Validatae model
+Evaluate model
+Refine model
+###Follow up
+Present model
+Deploy model
