@@ -1,0 +1,51 @@
+# Project Title
+
+One Paragraph of project description goes here
+
+## Over view
+
+### Coding
+
+Statistic:
+-R
+-Python
+Database:
+-SQL
+Command line interdface (terminal):
+-Bash
+Search
+-Regex
+### Math
+-Probability
+-Algebra
+-Regression
+###Domain expertise
+Overall knowlage of the feeld from where the data is gathered
+  
+###Machine Learning
+Coding and Math without domain
+Black box models
+###Research
+Data structured
+Effort in method and designe of the project
+
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you how to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
